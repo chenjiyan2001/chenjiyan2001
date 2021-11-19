@@ -32,6 +32,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/chenjiyan2001">
     <img src="https://badges.pufler.dev/commits/monthly/chenjiyan2001?style=flat-square&color=black&logo=github">
   </a>
+  <a href="https://wakatime.com/badge/user/8d643437-66da-4afa-bfae-3b4a5bb9b1c7/project/6b627bd0-a81d-4d8d-9ce3-7f2538a938a4">
+    <img src="https://wakatime.com/badge/user/8d643437-66da-4afa-bfae-3b4a5bb9b1c7/project/6b627bd0-a81d-4d8d-9ce3-7f2538a938a4.svg" alt="wakatime">
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
