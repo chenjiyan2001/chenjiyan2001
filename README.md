@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/chenjiyan2001">
     <img src="https://badges.pufler.dev/visits/chenjiyan2001/chenjiyan2001?style=flat-square&color=black&logo=github">
   </a>
