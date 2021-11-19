@@ -16,28 +16,20 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/chenjiyan2001" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=chenjiyan2001&show_icons=true&theme=onedark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjiyan2001&theme=onedark">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/chenjiyan2001" class="rich-diff-level-one">
-    
-  </a>
-</p>
+
 <p>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/chenjiyan2001">
     <img src="https://badges.pufler.dev/visits/chenjiyan2001/chenjiyan2001?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/chenjiyan2001">
     <img src="https://badges.pufler.dev/years/chenjiyan2001?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
+  <a href="https://github.com/chenjiyan2001?tab=repositories">
     <img src="https://badges.pufler.dev/repos/chenjiyan2001?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.pufler.dev/gists/chenjiyan2001?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/chenjiyan2001">
     <img src="https://badges.pufler.dev/commits/monthly/chenjiyan2001?style=flat-square&color=black&logo=github">
   </a>
 </p>
