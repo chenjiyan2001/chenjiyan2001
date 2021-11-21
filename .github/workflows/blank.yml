@@ -9,6 +9,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: chenjiyan2001/waka-readme@master
+      - uses: chenjiyan2001/chenjiyan2001@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
