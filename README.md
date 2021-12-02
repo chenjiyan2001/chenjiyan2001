@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Python   3 hrs 18 mins   █████████████░░░░░░░░░░░░   51.40 % 
-Other    3 hrs 7 mins    ████████████░░░░░░░░░░░░░   48.58 % 
+Python   5 hrs 42 mins   ██████████████▓░░░░░░░░░░   58.07 % 
+Other    4 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.91 % 
 ```
 <!--END_SECTION:waka-->
