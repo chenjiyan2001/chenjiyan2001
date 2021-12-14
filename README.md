@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
-Python     5 hrs 20 mins   ███████████████░░░░░░░░░░   59.84 % 
-Other      2 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   32.56 % 
-YAML       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Python   2 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.19 % 
+Other    1 hr 35 mins    ████████▒░░░░░░░░░░░░░░░░   32.70 % 
+YAML     1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   21.12 % 
 ```
 <!--END_SECTION:waka-->
