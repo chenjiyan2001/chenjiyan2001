@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
-Other    10 hrs 31 mins  ██████████████▒░░░░░░░░░░   57.12 % 
-Python   6 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   35.55 % 
-Bash     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-fish     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Java     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Python   10 hrs 9 mins   ████████████░░░░░░░░░░░░░   47.99 % 
+Other    9 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   45.67 % 
+Bash     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+fish     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Java     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 <!--END_SECTION:waka-->
