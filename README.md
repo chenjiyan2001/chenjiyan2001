@@ -50,5 +50,7 @@ Bash     13 mins         ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-My LeetCode:
-![leetcode-cn](https://stats.justsong.cn/api/leetcode?username=Maybe_one_day&cn=true)
+My LeetCode:  
+<p align="center">
+   <img src="https://stats.justsong.cn/api/leetcode?username=Maybe_one_day&cn=true">
+</p>
