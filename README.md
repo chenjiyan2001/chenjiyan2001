@@ -49,3 +49,6 @@ Java     18 mins         ▒░░░░░░░░░░░░░░░░░�
 Bash     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
+
+My LeetCode:
+https://stats.justsong.cn/api/leetcode?username=Maybe_one_day&cn=true
