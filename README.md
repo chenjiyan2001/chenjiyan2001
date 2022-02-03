@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-Python     6 hrs 9 mins    ███████████████████████▓░   94.48 % 
-Java       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Python     5 hrs 47 mins   ███████████████████████▓░   94.16 % 
+Java       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 <!--END_SECTION:waka-->
 
