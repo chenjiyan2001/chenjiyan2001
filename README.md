@@ -39,13 +39,15 @@ Here are some ideas to get you started:
 
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python   3 hrs 48 mins   ███████████████████████▒░   93.61 % 
-XML      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Text     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python   2 hrs 10 mins   ███████████████████████▓░   94.33 %
+XML      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 **My LeetCode:**   
