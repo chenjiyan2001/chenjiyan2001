@@ -41,7 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 February 2022 - To: 03 March 2022
+
+Python   1 hr 18 mins    ████████████████░░░░░░░░░   64.43 %
+Java     29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+C++      13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
