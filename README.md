@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2022 - To: 11 March 2022
+From: 05 March 2022 - To: 12 March 2022
 
-Python     6 hrs 24 mins   █████████████▓░░░░░░░░░░░   54.19 %
-C++        4 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   35.65 %
-Java       1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Bash       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python     6 hrs 50 mins   ██████████████▒░░░░░░░░░░   57.16 %
+C++        3 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   32.49 %
+Java       1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Bash       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
