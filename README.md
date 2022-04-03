@@ -60,3 +60,13 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 <p align="center">
    <img src="https://stats.justsong.cn/api/leetcode?username=Maybe_one_day&cn=true">
 </p>
+
+**TODO*:*
+<details>
+<summary>2022</summary>
+  <details>
+  <summary>04</summary>
+    -[] [学习fun-rec项目](https://github.com/datawhalechina/fun-rec)
+    -[] 动态规划入门
+  </details>
+</details>
