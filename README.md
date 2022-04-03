@@ -66,7 +66,7 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 <summary>2022</summary>
   <details>
   <summary>04</summary>
-    - [] [学习fun-rec项目](https://github.com/datawhalechina/fun-rec)
-    - [] 动态规划入门
+    - [ ] 学习fun-rec项目
+    - [ ] 动态规划入门
   </details>
 </details>
