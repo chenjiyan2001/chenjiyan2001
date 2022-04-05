@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+** Hi, I'm cHEn :wave: **
 <p align="center">
   <a href="https://github.com/chenjiyan2001" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=chenjiyan2001&show_icons=true&theme=onedark">
@@ -37,7 +38,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**This Week I Spent My Time On:**
+<details>
+
+<summary>Wakatime **This Week I Spent My Time On** </summary>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -49,16 +53,23 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-**My LeetCode:**   
+</details>
+
+<details>
+
+<summary>Gtihub **My LeetCode** </summary>
+
 <p align="center">
    <img src="https://stats.justsong.cn/api/leetcode?username=Maybe_one_day&cn=true">
 </p>
 
+</details>
+
 **TODO:**
-<!-- <details>
+<details>
 <summary>2022</summary>
   <details>
-  <summary>04</summary> -->
+  <summary>04</summary>
 - [x] bash脚本入门
 - [ ] 树状数组练习
 - [ ] 线段树学习(0307补上)
@@ -66,5 +77,5 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 - [ ] 动态规划入门
 - [ ] colemak键位练习
 - [ ] neovim学习
-<!--   </details>
-</details> -->
+  </details>
+</details>
