@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** Hi, I'm cHEn :wave: **
+# Hi, I'm cHEn :wave: 
 <p align="center">
   <a href="https://github.com/chenjiyan2001" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=chenjiyan2001&show_icons=true&theme=onedark">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <details>
 
-<summary>Wakatime **This Week I Spent My Time On** </summary>
+<summary> **This Week I Spent My Time On** </summary>
 
 <!--START_SECTION:waka-->
 
@@ -57,7 +57,7 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <details>
 
-<summary>Gtihub **My LeetCode** </summary>
+<summary>**My LeetCode**</summary>
 
 <p align="center">
    <img src="https://stats.justsong.cn/api/leetcode?username=Maybe_one_day&cn=true">
