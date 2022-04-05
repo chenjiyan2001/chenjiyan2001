@@ -38,8 +38,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**This Week I Spent My Time On:** 
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2034%20mins-blue)
 
