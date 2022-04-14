@@ -78,9 +78,9 @@ Linux                    11 hrs 6 mins       ███████████�
   
   :black_square_button: neovim学习  
   :black_square_button: 图入门  
-  :black_square_button: 排序入门  
-  :black_square_button: 树进阶(AVL, 红黑树, B树, B+树)
-  :black_square_button: 分治法
+  :black_square_button: 排序入门    
+  :black_square_button: 树进阶(AVL, 红黑树, B树, B+树)  
+  :black_square_button: 分治法  
   :heavy_minus_sign: 树状数组练习(没找到合适难度的, 暂且搁置)  
   :heavy_minus_sign: 线段树学习(延后, 先学习其他基础算法)  
   :heavy_minus_sign: 学习fun-rec项目(等待作者更新)  
