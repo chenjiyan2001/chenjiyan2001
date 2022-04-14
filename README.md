@@ -74,16 +74,12 @@ Linux                    11 hrs 6 mins       ███████████�
 </details>
 
 **TODO:**
-<!-- <details>
-<summary>2022</summary>
-  <details>
-  <summary>04</summary> -->
-- [x] bash脚本入门
-- [ ] 树状数组练习
-- [ ] 线段树学习(0307补上)
-- [ ] 学习fun-rec项目
-- [x] 动态规划入门
-- [ ] colemak键位练习
 - [ ] neovim学习
-<!--   </details>
-</details> -->
+- [ ] 图入门
+- [ ] 排序入门
+- [-] 树状数组练习(没找到合适难度的, 暂且搁置)
+- [-] 线段树学习(延后, 先学习其他基础算法)
+- [-] 学习fun-rec项目(等待作者更新)
+- [x] bash脚本入门
+- [x] 动态规划入门
+- [x] colemak键位练习
