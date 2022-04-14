@@ -73,13 +73,16 @@ Linux                    11 hrs 6 mins       ███████████�
 
 </details>
 
-**TODO:**
-- [ ] neovim学习
-- [ ] 图入门
-- [ ] 排序入门
-- [-] 树状数组练习(没找到合适难度的, 暂且搁置)
-- [-] 线段树学习(延后, 先学习其他基础算法)
-- [-] 学习fun-rec项目(等待作者更新)
-- [x] bash脚本入门
-- [x] 动态规划入门
-- [x] colemak键位练习
+<details>
+  <summary><b>TODO</b></summary> 
+  
+  :black_square_button: neovim学习  
+  :black_square_button: 图入门  
+  :black_square_button: 排序入门  
+  :heavy_minus_sign: 树状数组练习(没找到合适难度的, 暂且搁置)  
+  :heavy_minus_sign: 线段树学习(延后, 先学习其他基础算法)  
+  :heavy_minus_sign: 学习fun-rec项目(等待作者更新)  
+  :heavy_check_mark: bash脚本入门   
+  :heavy_check_mark: 动态规划入门   
+  :heavy_check_mark: colemak键位练习 
+</details>
