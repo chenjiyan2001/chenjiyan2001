@@ -76,7 +76,8 @@ Linux                    9 hrs 38 mins       ███████████�
   <summary><b>TODO</b></summary> 
   
   :black_square_button: neovim学习  
-  :black_square_button: 图入门  
+  :black_square_button: 图入门(熟练)  
+  :black_square_button: 枚举  
   :black_square_button: 排序入门    
   :black_square_button: 树进阶(AVL, 红黑树, B树, B+树)  
   :black_square_button: 分治法  
