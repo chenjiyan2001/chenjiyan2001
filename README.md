@@ -74,8 +74,9 @@ Linux                    6 hrs 53 mins       ███████████�
 
 <details>
   <summary><b>TODO</b></summary> 
-  :black_square_button: vim学习
+  :black_square_button: vim学习  
   :black_square_button: neovim学习  
+  :black_square_button: 小鹤双拼学习  
   :black_square_button: 图入门(熟练)  
   :black_square_button: 枚举  
   :black_square_button: 前缀和入门  
