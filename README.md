@@ -36,6 +36,9 @@ Here are some ideas to get you started:
   <a href="https://wakatime.com/@8d643437-66da-4afa-bfae-3b4a5bb9b1c7">
     <img src="https://wakatime.com/badge/user/8d643437-66da-4afa-bfae-3b4a5bb9b1c7.svg" alt="Total time coded since Nov 19 2021" />
   </a>
+  <a href="https://clist.by/account/maybe_one_day/resource/leetcode.com/">
+       <img src=https://img.shields.io/badge/dynamic/json?logo=LeetCode&color=blue&label=Highest%20Rating&query=data.resources%5B%22leetcode.com%22%5D.highest.value&url=https%3A%2F%2Fclist.by%2Faccount%2Fmaybe_one_day%2Fresource%2Fleetcode.com%2Fratings%2F%3Fresource%3Dleetcode.com>
+  </a>
 </p>
 
 <!--START_SECTION:waka-->
