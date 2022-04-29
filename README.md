@@ -80,6 +80,7 @@ Linux                    3 hrs 12 mins       ███████████�
   
   :black_square_button: vim学习  
   :black_square_button: neovim学习  
+  :black_square_button: 了解一下zsh  
   :black_square_button: 小鹤双拼学习  
   :black_square_button: 图入门(熟练)  
   :black_square_button: 枚举  
