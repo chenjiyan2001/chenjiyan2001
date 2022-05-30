@@ -46,20 +46,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0% 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 29/05/2022 00:37:40 UTC
+ Last Updated on 30/05/2022 00:42:08 UTC
 <!--END_SECTION:waka-->
 
 <details>
