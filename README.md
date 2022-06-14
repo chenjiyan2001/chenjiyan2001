@@ -46,18 +46,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+RMarkdown                3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/06/2022 00:40:34 UTC
+ Last Updated on 14/06/2022 00:43:34 UTC
 <!--END_SECTION:waka-->
 
 <details>
