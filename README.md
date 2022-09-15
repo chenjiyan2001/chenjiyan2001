@@ -42,22 +42,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-JavaScript               23 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-Vim                      23 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 14/09/2022 00:44:33 UTC
+ Last Updated on 15/09/2022 00:48:17 UTC
 <!--END_SECTION:waka-->
 
 <details>
