@@ -21,18 +21,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/chenjiyan2001">
-    <img src="https://badges.pufler.dev/visits/chenjiyan2001/chenjiyan2001?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/chenjiyan2001">
-    <img src="https://badges.pufler.dev/years/chenjiyan2001?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/chenjiyan2001?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/chenjiyan2001?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/chenjiyan2001">
-    <img src="https://badges.pufler.dev/commits/monthly/chenjiyan2001?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://wakatime.com/@8d643437-66da-4afa-bfae-3b4a5bb9b1c7">
     <img src="https://wakatime.com/badge/user/8d643437-66da-4afa-bfae-3b4a5bb9b1c7.svg" alt="Total time coded since Nov 19 2021" />
   </a>
