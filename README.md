@@ -34,18 +34,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              ███████████████░░░░░░░░░░   60.64% 
+Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.99% 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/11/2022 00:41:14 UTC
+ Last Updated on 08/11/2022 00:42:35 UTC
 <!--END_SECTION:waka-->
 
 <details>
