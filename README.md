@@ -34,17 +34,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             ██████████████████░░░░░░░   72.94 % 
+Other                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2023 00:34:49 UTC
+ Last Updated on 23/05/2023 00:33:51 UTC
 <!--END_SECTION:waka-->
 
 <details>
