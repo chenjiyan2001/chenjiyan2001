@@ -34,18 +34,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 12 mins       █████████████████████████   99.95 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2023 00:39:36 UTC
+ Last Updated on 24/07/2023 00:37:35 UTC
 <!--END_SECTION:waka-->
 
 <details>
