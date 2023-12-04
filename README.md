@@ -34,17 +34,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             ███████████████████░░░░░░   76.17 % 
+Java Properties          3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/12/2023 00:34:30 UTC
+ Last Updated on 04/12/2023 00:32:46 UTC
 <!--END_SECTION:waka-->
 
 <details>
