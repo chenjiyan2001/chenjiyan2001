@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/11/2024 00:42:28 UTC
+ Last Updated on 12/11/2024 00:40:27 UTC
 <!--END_SECTION:waka-->
 
 <details>
