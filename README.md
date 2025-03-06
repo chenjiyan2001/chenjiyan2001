@@ -34,20 +34,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 27 mins        █████████████████████████   98.35 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/03/2025 00:43:51 UTC
+ Last Updated on 06/03/2025 00:43:50 UTC
 <!--END_SECTION:waka-->
 
 <details>
