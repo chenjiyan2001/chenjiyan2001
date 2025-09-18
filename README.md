@@ -30,8 +30,21 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 17/09/2025 00:44:21 UTC
+```text
+💬 Programming Languages: 
+Python                   6 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  6 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/09/2025 00:43:41 UTC
 <!--END_SECTION:waka-->
 
 <details>
