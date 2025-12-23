@@ -34,17 +34,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              ███████████████████░░░░░░   76.05 % 
+Python                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/12/2025 00:56:11 UTC
+ Last Updated on 23/12/2025 00:53:23 UTC
 <!--END_SECTION:waka-->
 
 <details>
