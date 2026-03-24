@@ -34,20 +34,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 mins             █████████░░░░░░░░░░░░░░░░   35.40 % 
-Python                   12 mins             ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/03/2026 01:11:36 UTC
+ Last Updated on 24/03/2026 01:04:28 UTC
 <!--END_SECTION:waka-->
 
 <details>
