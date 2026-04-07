@@ -34,21 +34,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 56 mins        ████████████░░░░░░░░░░░░░   47.73 % 
-Markdown                 1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
-YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-TOML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TOML                     15 mins             ███████████████████████░░   91.77 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 01:19:35 UTC
+ Last Updated on 07/04/2026 01:16:58 UTC
 <!--END_SECTION:waka-->
 
 <details>
