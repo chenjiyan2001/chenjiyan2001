@@ -34,18 +34,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-YAML                     18 mins             ███████████████████████░░   92.06 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+YAML                     18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 01:25:43 UTC
+ Last Updated on 21/04/2026 01:22:43 UTC
 <!--END_SECTION:waka-->
 
 <details>
