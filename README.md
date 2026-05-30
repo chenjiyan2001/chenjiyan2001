@@ -30,8 +30,23 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 02:01:36 UTC
+```text
+💬 Programming Languages: 
+YAML                     5 mins              █████████████████░░░░░░░░   66.31 % 
+JSON                     2 mins              ████████░░░░░░░░░░░░░░░░░   31.21 % 
+CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+
+🔥 Editors: 
+VS Code                  8 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  8 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 01:56:36 UTC
 <!--END_SECTION:waka-->
 
 <details>
