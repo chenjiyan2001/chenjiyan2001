@@ -30,17 +30,20 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2033%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 19 mins             ██████████████████████░░░   89.32 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -50,7 +53,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 01:24:24 UTC
+ Last Updated on 30/07/2026 01:17:30 UTC
 <!--END_SECTION:waka-->
 
 <details>
